@@ -1,0 +1,39 @@
+Disease Name,Causes,Fertilizer or Pesticide
+Apple___Apple_scab,Fungal infection (Venturia inaequalis),Use 10ml of Mancozeb per liter of water per acre. Apply as a spray to control the fungus.
+Apple___Black_rot,Fungal infection (Botryosphaeria obtusa),Apply 15g of Captan per liter of water per acre. Use in a foliar spray to prevent fungal spread.
+Apple___Cedar_apple_rust,Fungal infection (Gymnosporangium juniperi-virginianae),Spray 10ml of Myclobutanil per gallon of water per acre. Apply when first symptoms appear.
+Apple___healthy,No disease,N/A
+Blueberry___healthy,No disease,N/A
+Cherry_(including_sour)___Powdery_mildew,Fungal infection (Podosphaera clandestina),Use 20g of Sulfur per liter of water per acre. Apply as a preventative fungicide.
+Cherry_(including_sour)___healthy,No disease,N/A
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Fungal infection (Cercospora zeae-maydis),Apply 12ml of Azoxystrobin per liter of water per acre. Use during early disease onset.
+Corn_(maize)___Common_rust_,Fungal infection (Puccinia sorghi),Spray 10ml of Mancozeb per gallon of water per acre. Apply when rust pustules are visible.
+Corn_(maize)___Northern_Leaf_Blight,Fungal infection (Exserohilum turcicum),Use 15ml of Propiconazole per liter of water per acre. Apply as a foliar spray.
+Corn_(maize)___healthy,No disease,N/A
+Grape___Black_rot,Fungal infection (Guignardia bidwellii),Use 10ml of Mancozeb per liter of water per acre. Spray in the early stages of disease.
+Grape___Esca_(Black_Measles),Fungal infection (Phaeomoniella chlamydospora),Apply 15ml of Myclobutanil per gallon of water per acre. Use during early disease stages.
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Fungal infection (Isariopsis spp.),Spray 12ml of Captan per liter of water per acre. Apply as a protective measure.
+Grape___healthy,No disease,N/A
+Orange___Haunglongbing_(Citrus_greening),Bacterial infection (Candidatus Liberibacter asiaticus),Apply 10ml of Imidacloprid per liter of water per acre to control vectors. Apply preventatively.
+Peach___Bacterial_spot,Bacterial infection (Xanthomonas campestris pv. pruni),Use 10g of Copper-based bactericide per liter of water per acre. Apply at early bloom.
+Peach___healthy,No disease,N/A
+"Pepper,_bell___Bacterial_spot",Bacterial infection (Xanthomonas campestris),Spray 15g of Copper-based bactericide per gallon of water per acre. Apply at 7-day intervals.
+"Pepper,_bell___healthy",No disease,N/A
+Potato___Early_blight,Fungal infection (Alternaria solani),Apply 12ml of Mancozeb per liter of water per acre. Spray preventatively or at first symptom.
+Potato___Late_blight,Fungal infection (Phytophthora infestans),Use 15ml of Chlorothalonil per liter of water per acre. Apply during early infection.
+Potato___healthy,No disease,N/A
+Raspberry___healthy,No disease,N/A
+Soybean___healthy,No disease,N/A
+Squash___Powdery_mildew,Fungal infection (Podosphaera xanthii),Use 10g of Sulfur per liter of water per acre. Apply to manage fungal growth.
+Strawberry___Leaf_scorch,Fungal infection (Diplocarpon earlianum),Spray 12g of Captan per liter of water per acre. Use preventatively or at early signs of infection.
+Strawberry___healthy,No disease,N/A
+Tomato___Bacterial_spot,Bacterial infection (Xanthomonas campestris pv. vesicatoria),Use 15g of Copper-based bactericide per liter of water per acre. Apply every 7-10 days.
+Tomato___Early_blight,Fungal infection (Alternaria solani),Apply 12ml of Mancozeb per liter of water per acre. Use preventatively or when early symptoms appear.
+Tomato___Late_blight,Fungal infection (Phytophthora infestans),Use 15ml of Chlorothalonil per liter of water per acre. Apply during early infection stages.
+Tomato___Leaf_Mold,Fungal infection (Cladosporium fulvum),Spray 10ml of Copper fungicide per gallon of water per acre. Apply to manage the mold.
+Tomato___Septoria_leaf_spot,Fungal infection (Septoria lycopersici),Use 12ml of Mancozeb per liter of water per acre. Apply preventatively or during early infection.
+Tomato___Spider_mites Two-spotted_spider_mite,Insect pest (Tetranychus urticae),Apply 10ml of Abamectin per liter of water per acre. Spray when mites first appear.
+Tomato___Target_Spot,Fungal infection (Corynespora cassiicola),Spray 12ml of Mancozeb per liter of water per acre. Apply at first sign of infection.
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,Viral infection,Use 10ml of Imidacloprid per liter of water per acre to control whiteflies. Apply preventatively.
+Tomato___Tomato_mosaic_virus,Viral infection,N/A
+Tomato___healthy,No disease,N/A
