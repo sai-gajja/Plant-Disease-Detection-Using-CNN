@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection using CNNs
+🌿 Plant Disease Detection using CNNs
 This repository presents an AI-driven web-based application that utilizes Convolutional Neural Networks (CNNs) to detect diseases in plant leaves. With an accuracy of up to 98.44%, this model aims to assist farmers in early plant disease identification, helping to reduce crop losses and improve agricultural productivity.
 
 📌 Table of Contents
