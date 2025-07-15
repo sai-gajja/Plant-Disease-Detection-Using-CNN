@@ -1,105 +1,74 @@
-🌿 Plant Disease Detection using CNNs
-This repository presents an AI-driven web-based application that utilizes Convolutional Neural Networks (CNNs) to detect diseases in plant leaves. With an accuracy of up to 98.44%, this model aims to assist farmers in early plant disease identification, helping to reduce crop losses and improve agricultural productivity.
+# 🌿 Plant Disease Detection using CNNs
 
-📌 Table of Contents
-🎯 Project Overview
+This repository presents an **AI-powered web application** that leverages **Convolutional Neural Networks (CNNs)** for **early detection of plant leaf diseases**. Achieving an impressive accuracy of **up to 98.44%**, the model supports **farmers and agronomists** in diagnosing plant health, reducing crop losses, and promoting sustainable farming.
 
-🧠 Model Architecture
+---
 
-🌱 Dataset Details
+## 📌 Table of Contents
+- [🎯 Project Overview](#-project-overview)
+- [🧠 Model Architecture](#-model-architecture)
+- [🌱 Dataset Details](#-dataset-details)
+- [⚙️ Installation](#️-installation)
+- [🚀 Usage](#-usage)
+- [📊 Results](#-results)
+- [🔮 Future Scope](#-future-scope)
+- [👥 Contributors](#-contributors)
+- [📝 License](#-license)
 
-⚙️ Installation
+---
 
-🚀 Usage
+## 🎯 Project Overview
 
-📊 Results
-
-🔮 Future Scope
-
-🤝 Contributors
-
-📄 License
-
-🎯 Project Overview
 This project focuses on:
 
-Early detection of plant leaf diseases using CNNs.
+- 🌿 Early detection of plant diseases through deep learning
+- 🌐 Deploying a user-friendly web interface for diagnosis
+- 🧪 Suggesting fertilizers and pesticides post-detection
+- 🌱 Encouraging sustainable agriculture with technology
 
-Deploying a user-friendly web interface to upload and diagnose leaf images.
+---
 
-Offering fertilizer and pesticide suggestions post-detection.
+## 🧠 Model Architecture
 
-Promoting sustainable agriculture through technological innovation.
+The model is a **custom CNN** composed of:
 
-🧠 Model Architecture
-The model is a deep CNN with:
+- 📦 Convolutional Layers  
+- 🌀 Pooling Layers  
+- 🔁 Dropout Layers  
+- 🎯 Fully Connected Dense Layers for final classification  
 
-Multiple convolution, pooling, and dropout layers
+**Performance:**
 
-Followed by fully connected dense layers for classification
+- ✅ **Training Accuracy:** 98.44%  
+- ✅ **Validation Accuracy:** 96.25%  
 
-Performance:
-Training Accuracy: 98.44%
+**Evaluation Metrics:**
 
-Validation Accuracy: 96.25%
+- 📈 Precision
+- 🔁 Recall
+- 📊 F1-Score
+- 🔀 Confusion Matrix
 
-Evaluation Metrics: Precision, Recall, F1-score, Confusion Matrix
+---
 
-🌱 Dataset Details
-Source: PlantVillage Dataset
+## 🌱 Dataset Details
 
-Total Images: 86,000+
+- **Source:** PlantVillage Dataset  
+- **Total Images:** 86,000+  
+- **Classes:** 33 disease types across 14 plant species  
+- **Image Size:** 128×128 pixels  
 
-Classes: 33 disease labels across 14 plant species
+**Preprocessing Includes:**
 
-Image Size: 128 × 128
+- 🧼 Normalization  
+- 🔁 Augmentation: Flip, Zoom, Rotate  
+- ⚖️ Class Balancing  
 
-Preprocessing Steps:
-Normalization
+---
 
-Data Augmentation: Flip, Zoom, Rotate
+## ⚙️ Installation
 
-Class Balancing
-
-⚙️ Installation
-bash
-Copy
-Edit
-# Clone the repository
-git clone https://github.com/your-username/plant-disease-detection-cnn.git
-cd plant-disease-detection-cnn
-
-# Install required packages
+```bash
+git clone https://github.com/yourusername/plant-disease-detection.git
+cd plant-disease-detection
 pip install -r requirements.txt
-🚀 Usage
-Run the training notebook or load the pre-trained model.
-
-Launch the web interface:
-
-bash
-Copy
-Edit
-streamlit run app.py
-Upload a leaf image through the interface.
-
-View the disease classification and recommended treatment.
-
-📊 Results
-Confusion Matrix: Shows strong confidence across most disease classes.
-
-GUI/Web Interface Features:
-
-Upload image
-
-Get prediction with treatment suggestions
-
-See classification result with explanation
-
-🔮 Future Scope
-Incorporate adaptive learning using user feedback.
-
-Include environmental data such as weather and soil conditions.
-
-Add pest detection and crop yield prediction.
-
-Deploy to mobile or drone-based platforms for real-time diagnosis.
